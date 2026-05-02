@@ -11,7 +11,8 @@ Console.WriteLine($"the total cost : {totalCost}");
 double totalTax = totalCost * 0.14;
 Console.WriteLine($"Tax: {totalTax} $");
 double totalEstimation = (double)totalCost + totalTax;
-Console.WriteLine($"Total estimation: { totalEstimation} $");
+Console.WriteLine($"Total estimation : { totalEstimation} $");
+
 
 
 
